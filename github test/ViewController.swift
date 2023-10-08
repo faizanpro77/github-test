@@ -22,6 +22,7 @@ class ViewController: UIViewController {
         print("add 1")
         
         print("marse1")
+        print("marse2")
     }
     
 
