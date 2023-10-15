@@ -29,6 +29,7 @@ class ViewController: UIViewController {
         print("PL3")
         print("clour is red tr4")
         print("PL 5")
+        print("PL 6")
         
     }
     
