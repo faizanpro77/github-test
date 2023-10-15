@@ -12,7 +12,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
-        print("first commite")
+        print("first commit")
         print("this is development branch")
         
         print("create pull request")
