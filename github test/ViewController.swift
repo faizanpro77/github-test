@@ -12,7 +12,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
-        print("first commite")
+        print("first commit")
         print("this is development branch")
         
         print("create pull request")
@@ -25,9 +25,9 @@ class ViewController: UIViewController {
         print("marse2")
         print("marse4")
         
-        print("PL2")
-        print("PL3")
-        print("PL4")
+        print("TR1")
+        print("TR2")
+        print("TR4")
         
     }
     
