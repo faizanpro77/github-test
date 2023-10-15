@@ -25,9 +25,9 @@ class ViewController: UIViewController {
         print("marse2")
         print("marse4")
         
-        print("TR1")
-        print("TR2")
-        print("clour is green tr4")
+        print("PL2")
+        print("PL3")
+        print("clour is red tr4")
         
     }
     
