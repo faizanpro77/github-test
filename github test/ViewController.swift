@@ -27,7 +27,7 @@ class ViewController: UIViewController {
         
         print("TR1")
         print("TR2")
-        print("TR4")
+        print("clour is green tr4")
         
     }
     
