@@ -25,7 +25,7 @@ class ViewController: UIViewController {
         print("marse2")
         print("marse4")
         
-        print("PL1")
+        print("PL2")
     }
     
 
